@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------
-# Name:		    Lesson 4.3 Logical Operators
-# Purpose:		Homework
+# Name:		    Question 1
+# Purpose:	  Homework
 # Author:		  Last Name. First Initial
 # Created:		dd/mm/yyyy
 #-------------------------------------------------------------------------
